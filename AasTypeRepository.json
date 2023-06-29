@@ -1,0 +1,23 @@
+{
+  "https://th-koeln.de/gart/CompanyAAS/1/0": [
+    "https://th-koeln.de/gart/vocabulary/CompanyInformation/1/0",
+    "https://admin-shell.io/idta/HierarchicalStructures/1/0/Submodel"
+  ],
+  "https://th-koeln.de/gart/SiteAAS/1/0": [
+    "https://th-koeln.de/gart/vocabulary/SiteInformation/1/0",
+    "https://admin-shell.io/idta/HierarchicalStructures/1/0/Submodel"
+  ],
+  "https://th-koeln.de/gart/BuildingAAS/1/0": [
+    "https://th-koeln.de/gart/vocabulary/BuildingInformation/1/0",
+    "https://admin-shell.io/idta/HierarchicalStructures/1/0/Submodel"
+  ],
+  "https://th-koeln.de/gart/PumpAAS/1/0": [
+    "https://th-koeln.de/gart/vocabulary/OperatingInformationPump/1/0",
+    "https://admin-shell.io/idta/HierarchicalStructures/1/0/Submodel"
+  ],
+  "https://th-koeln.de/gart/BACnetDeviceAAS/1/0": [
+    "https://th-koeln.de/gart/vocabulary/BACnetDatapointsInformation/1/0",
+    "https://admin-shell.io/zvei/nameplate/2/0/Nameplate",
+    "https://admin-shell.io/idta/HierarchicalStructures/1/0/Submodel"
+  ]
+}
